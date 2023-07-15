@@ -1,12 +1,13 @@
 /* lato font */
 body{
     font-family: 'Lato', sans-serif;
+     /* width: 1920px; */
 }
 
-/* First slot ot setup */
+/* First slot ot webpage(these code are use for header tag) */
 
 .first-slot{
-    width: 1920px;
+    /* width: 1920px; */
     height: 850px;
     background-color: rgba(229, 84, 115, 0.10);
     margin: 0px;
@@ -60,4 +61,115 @@ margin-bottom: 32px;
     margin-top: 197px;
     margin-right: 97px;
     margin-bottom: 147px;
+ }
+ .header{
+    margin-bottom: 0px;
+ }
+
+
+
+ /* next all code will be use in the feature of flower and service info(section 1 content) */
+
+
+ .section1{
+    margin-top: 178px;
+    
+    
+ }
+
+ .fof-header{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+color: #272727;
+/* justify-content: center; */
+margin-bottom: 24px;
+
+ }
+ .fof-para{
+    color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+ }
+
+ .first-bg-img{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    margin-right: 24px;
+    margin-bottom: 0px;
+ }
+ .second-bg-img{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+    margin-right: 24px;
+    margin-bottom: 0px;
+ }
+ .third-bg-img{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background-color:rgba(71, 125, 17, 0.15);
+    margin-right: 24px;
+    margin-bottom: 0px;
+    
+ }
+ .fof-bg-pic{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 48px;
+
+ }
+
+ .first-img{
+    margin-left: 76px;
+    margin-right: 78px;
+    margin-top: 110px;
+    margin-bottom: 0px;
+ }
+ .second-img{
+    margin-left: 47px;
+    margin-right: 47px;
+    margin-top: 117px;
+    margin-bottom: 51px;
+ }
+ .third-img{
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 67px;
+    margin-bottom: 0px;
+ }
+ .u-para{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 32px;
+    
+ }
+
+ /* these all will be the section 2 content */
+
+ .service-info{
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin-top: 128px;
+    margin-left: 240px;
+    margin-right: 240px;
+   
+    
  }
