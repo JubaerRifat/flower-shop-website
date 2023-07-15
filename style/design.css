@@ -188,19 +188,135 @@ margin-bottom: 24px;
 .margin1{
     margin-top: 86px;
     margin-bottom: 0px;
+    width: 88px;
+height: 88px;
 }
 .margin2{
     margin-top: 86px;
     margin-bottom: 0px;
-    margin-right: 3px;
+    width: 88px;
+    height: 88px;
 }
 .margin3{
     margin-top: 86px;
-    margin-bottom: 0px;
+    margin-bottom: 0px;width: 88px;
+    height: 88px;
+
+
 
 } 
 .img-text-text{
      display: flex;
      justify-content:space-around;
      padding-right: 5px; 
+     
+}
+
+.prblm1{
+    margin-right: 3px;
+}
+ 
+/* sales offer part */
+
+.section3{
+    margin-top: 128px;
+}
+
+.sales-offer-img{
+    display: flex;
+    justify-content: space-around;
+    /* width: 1922px; */
+    height: 620px;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 0.05);
+
+}
+.discount-tag{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-left:423px ;
+margin-right:215px ;
+margin-top: 230px;
+margin-bottom:24px ;
+width: 537px;
+}
+.off{
+    color: #E55473;
+font-size: 40px;
+font-weight: 800;
+}
+
+.discount-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+  margin-top:24px ;
+  margin-bottom:32px ;
+  margin-right:186px ;
+  margin-left:395px ;
+
+}
+.sign-btn{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background-color:  #E55473;
+    margin-top:32px ;
+    margin-bottom:162px ;
+    margin-right:417px ;
+    margin-left:603px ;
+    border: solid #E55473;
+}
+.discount-img{
+    width: 318px;
+height: 420px;
+margin-top:100px ;
+    margin-bottom:100px ;
+    margin-right:429px ;
+    margin-left:186px ;
+
+}
+
+/* instagram part */
+.insta-header{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-top:128px ;
+    margin-right:870px ;
+    margin-left:870px ;
+}
+.insta-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom:48px ;
+margin-right:663px ;
+margin-left:663px ;
+width: 594px;
+height: 60px;
+}
+.insta-img{
+   display: flex;
+    justify-content: space-around;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.ins-img1{
+     margin-right: 24px;
+}
+.ins-img2{
+    margin-right: 24px;
+
+}
+.ins-img3{
+    margin-right: 24px;
 }
