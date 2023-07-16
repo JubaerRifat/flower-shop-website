@@ -161,6 +161,12 @@ margin-bottom: 24px;
  }
 
  /* these all will be the section 2 content */
+ .section2{
+    background-color: white;
+    height: 320px ;
+    /* width: 1920px; */
+    margin: 0px;
+ }
 
  .service-info{
     
@@ -172,6 +178,7 @@ margin-bottom: 24px;
     width: 1440px;
     height: 320px;
     background-position: center;
+    justify-content: center;
    
     
  }
@@ -319,4 +326,69 @@ height: 60px;
 }
 .ins-img3{
     margin-right: 24px;
+}
+
+
+
+.bg-deal{
+    width: 1440px; 
+height: 449px;
+background-image: url(last.png);
+background-position: center;
+margin-top: 128px;
+margin-bottom: 128px;
+margin-left: 240px;
+margin-right: 240px;
+align-items: center;
+}
+
+.bg-header{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-left: 533px;
+margin-right: 534px;
+margin-top: 122px;
+width: 400; 
+height: 48px;
+padding-top: 80px;
+}
+
+.bg-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-left: 604px;
+margin-right: 605px;
+margin-bottom: 48px;
+}
+.text{
+   
+}
+.bg-inpt{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background-color: #FFF;
+margin-left: 287px;
+margin-bottom: 121px;
+margin-right: 16;
+color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+font-weight: 400;
+border: solid #FFF;
+}
+.bg-btn{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+background-color: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border: solid #E55473;
+margin-left: 16px;
 }
