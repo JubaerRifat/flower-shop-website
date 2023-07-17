@@ -392,3 +392,40 @@ font-weight: 700;
 border: solid #E55473;
 margin-left: 16px;
 }
+
+
+
+.footer{
+    /* width: 1922px; */
+height: 449px;
+background-color: #111010;
+}
+
+.footer-head{
+    color: #FFF;
+font-size: 48px;
+font-weight: 800;
+text-align: center;
+padding-top: 128px;
+}
+.flower-color{
+    color: #E55473;
+font-size: 48px;
+font-weight: 800;
+}
+.footer-para{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 625px;
+height: 60px;
+padding-left: 648px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
